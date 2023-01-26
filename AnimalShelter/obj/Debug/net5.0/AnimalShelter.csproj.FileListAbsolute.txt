@@ -1,0 +1,16 @@
+C:\Facultate\C#\Tema3(1)\AnimalShelter\AnimalShelter\obj\Debug\net5.0\AnimalShelter.csproj.AssemblyReference.cache
+C:\Facultate\C#\Tema3(1)\AnimalShelter\AnimalShelter\obj\Debug\net5.0\AnimalShelter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Facultate\C#\Tema3(1)\AnimalShelter\AnimalShelter\obj\Debug\net5.0\AnimalShelter.AssemblyInfoInputs.cache
+C:\Facultate\C#\Tema3(1)\AnimalShelter\AnimalShelter\obj\Debug\net5.0\AnimalShelter.AssemblyInfo.cs
+C:\Facultate\C#\Tema3(1)\AnimalShelter\AnimalShelter\obj\Debug\net5.0\AnimalShelter.csproj.CoreCompileInputs.cache
+C:\Facultate\C#\Tema3(1)\AnimalShelter\AnimalShelter\bin\Debug\net5.0\AnimalShelter.exe
+C:\Facultate\C#\Tema3(1)\AnimalShelter\AnimalShelter\bin\Debug\net5.0\AnimalShelter.deps.json
+C:\Facultate\C#\Tema3(1)\AnimalShelter\AnimalShelter\bin\Debug\net5.0\AnimalShelter.runtimeconfig.json
+C:\Facultate\C#\Tema3(1)\AnimalShelter\AnimalShelter\bin\Debug\net5.0\AnimalShelter.runtimeconfig.dev.json
+C:\Facultate\C#\Tema3(1)\AnimalShelter\AnimalShelter\bin\Debug\net5.0\AnimalShelter.dll
+C:\Facultate\C#\Tema3(1)\AnimalShelter\AnimalShelter\bin\Debug\net5.0\AnimalShelter.pdb
+C:\Facultate\C#\Tema3(1)\AnimalShelter\AnimalShelter\obj\Debug\net5.0\AnimalShelter.dll
+C:\Facultate\C#\Tema3(1)\AnimalShelter\AnimalShelter\obj\Debug\net5.0\refint\AnimalShelter.dll
+C:\Facultate\C#\Tema3(1)\AnimalShelter\AnimalShelter\obj\Debug\net5.0\AnimalShelter.pdb
+C:\Facultate\C#\Tema3(1)\AnimalShelter\AnimalShelter\obj\Debug\net5.0\AnimalShelter.genruntimeconfig.cache
+C:\Facultate\C#\Tema3(1)\AnimalShelter\AnimalShelter\obj\Debug\net5.0\ref\AnimalShelter.dll
